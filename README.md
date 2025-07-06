@@ -103,12 +103,22 @@ trading bot
 trading strategies
 
 trading algorithms
+
 tradingbot
+
 crypto tools
+
 crypto bot
+
 crypto trading
+
 crypto trading bot
+
 crypto currency trading
+
 trading strategy
+
 trading signal bot
+
 trading software
+
