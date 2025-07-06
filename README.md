@@ -93,10 +93,15 @@ FlowAlgo credentials are required for scraping option flow and the Alpaca creden
 TAGS
 
 bot
+
 crypto
+
 trading
+
 trading bot
+
 trading strategies
+
 trading algorithms
 tradingbot
 crypto tools
